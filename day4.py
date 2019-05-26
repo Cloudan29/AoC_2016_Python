@@ -1,3 +1,7 @@
+"""
+Incomplete, gotta figure out what's going wrong
+"""
+
 def id_sum_real():
     input = open('AoC_2016_Python/inputs/input4.txt')
     ans = 0
