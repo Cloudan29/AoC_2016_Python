@@ -1,5 +1,5 @@
 def id_sum_real():
-    input = open('AoC_2016/inputs/input4.txt')
+    input = open('AoC_2016_Python/inputs/input4.txt')
     ans = 0
     for line in input:
         temp_current = line.split('-')[:len(line.split('-'))-1]

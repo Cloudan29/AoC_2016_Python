@@ -1,5 +1,5 @@
 def possible_triangles():
-    input = open('AoC_2016/inputs/input3.txt')
+    input = open('AoC_2016_Python/inputs/input3.txt')
     count = 0
     for line in input:
         nums = [int(line[:5]),int(line[5:10]),int(line[10:15])]
@@ -10,7 +10,7 @@ def possible_triangles():
     return count
 
 def vertical_read():
-    input = open('AoC_2016/inputs/input3.txt')
+    input = open('AoC_2016_Python/inputs/input3.txt')
     count = 0
     read = 0
     nums = []
