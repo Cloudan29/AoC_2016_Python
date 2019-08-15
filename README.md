@@ -1,4 +1,3 @@
-# AoC_2016_Python
+# My solutions to Advent of Code 2016 in Python
 
-Advent of Code 2016 in Python.
-Figured I could store my code here for easier access, plus other people can see how I think.
+All of my solutions to the 2016 Advent of Code. You can find all my inputs in the inputs folder.
